@@ -1,0 +1,13 @@
+tipo:Gasolina pro:10000:8000.0
+tipo:Gasolina max:100000:100000.0
+tipo:gasolina normal:10000:10000.0
+tipo:Gasolina pro max:50000:100.0
+surtidor:Karlach Under:Gasolina pro:0.0:Gasolina max:0.0:gasolina normal:0.0:Gasolina pro max:0.0
+surtidor:Roberto Alejandro Draconico Blanco:Gasolina pro:0.0:Gasolina max:0.0:gasolina normal:0.0:Gasolina pro max:0.0
+surtidor:Empleado numero 5 :Gasolina pro:0.0:Gasolina max:0.0:gasolina normal:0.0:Gasolina pro max:0.0
+surtidor:Empleado numero 5 :Gasolina pro:0.0:Gasolina max:0.0:gasolina normal:0.0:Gasolina pro max:0.0
+empleado:Karlach Under:0
+empleado:Ash De Pueblo Paleta:0
+empleado:Roberto Alejandro Draconico Blanco:0
+empleado:Astarion Reborn:0
+empleado:Empleado numero 5 :0
